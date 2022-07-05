@@ -1,3 +1,0 @@
-[submodule "qemu-rpi-kernel"]
-	path = qemu-rpi-kernel
-	url = ./qemu-rpi-kernel
